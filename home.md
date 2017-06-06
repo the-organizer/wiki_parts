@@ -3,5 +3,4 @@
 
 # Part Wiki
 
-[Google]{google.com}
-
+[Google](google.com)
