@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+![Screen Shot 2017 06 06 At 10 37 56 Am](/uploads/screen-shot-2017-06-06-at-10-37-56-am.png "Screen Shot 2017 06 06 At 10 37 56 Am")<!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Part Wiki
