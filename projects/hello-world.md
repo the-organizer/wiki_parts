@@ -4,4 +4,4 @@ Databases ROCK!
 
 !!!!!
 
-[Test](projects/hello-world/1)
+[Test](/projects/hello-world/1)
